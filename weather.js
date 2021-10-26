@@ -1,6 +1,6 @@
 var searchButton = document.getElementById("searchButton")
 
-var url = "https://api.weatherapi.com/v1/current.json?key=0c24eb5b194d4787880154540212610&q="
+var url = "https://api.weatherapi.com/v1/current.json?key=4b1c987765c343858c8162501212610&q="
 var errors = {}
 var weatherResults = []
 var backgroundColor = ['#0F9D58', '#F4B400', '#4285F4', '#DB4437']
